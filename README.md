@@ -87,10 +87,10 @@ Ketika menggunakan ini, jangan lupa untuk menutupnya.
 
 ```plantuml
 let lastName;
-lastName = "Surya";
+lastName = "Satria";
 console.log(lastName);
 
-var nama = "Surya ";
+var nama = "Satria ";
 let umur = "17 ";
 const asal = "Jepara";
 
@@ -226,13 +226,13 @@ console.log(moreGreet);
  </p>
 
 ```plantuml
-const myName = "Surya";
+const myName = "Satria";
 console.log(`Hello, my name is ${myName}.`);
 ```
 
 |Output : |
 | :--     | 
-| Hello, my name is Surya. |
+| Hello, my name is Satria. |
 
 <p align="justify"> Perhatikan bahwa untuk mendefinisikan string template, Anda perlu menggunakan backticks (`), biasanya terletak di keyboard di sebelah kiri tombol 1). Di dalam string letakkan variabel yang ingin dimasukkan ke dalam placeholder ${myName}.
  </p>
